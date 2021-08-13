@@ -11,6 +11,6 @@
   ],
   "keywords": ["shopware", "deployer", "recipe"],
   "require": {
-    "deployer/deployer": "~3.2"
+    "deployer/deployer": "~6.8"
   }
 }
